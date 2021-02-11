@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+table {
+    border: #161d6f;
+    width: 100%;
+}
+
+button {
+    background-color: #d3e0ea;
+    font-size: 150%;
+    width: 100%;
+}
+
+.ac {
+    color: #214151;
+}
